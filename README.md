@@ -1,5 +1,5 @@
 # oficina5
-<p>Primeiramente você tem que rodar os comandos</p>
+<p>Primeiramente extrair o arquivo que se encontra dentro do projeto "oficina5..." e depois executar os comandos no cmd, na pasta pai do projeto.</p>
 <p>composer dump-autoload</p>
 <p>composer update</p>
 
